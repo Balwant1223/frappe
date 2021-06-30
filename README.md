@@ -3,7 +3,7 @@
         <br>
         <a href="https://frappeframework.com">
             <img src=".github/frappe-framework-logo.svg" height="50">
-        </a>
+        </a>LOLLLL
     </h1>
     <h3>
         a web framework with <a href="https://www.youtube.com/watch?v=LOjk3m0wTwg">"batteries included"</a>
